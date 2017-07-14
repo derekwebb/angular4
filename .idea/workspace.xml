@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4300d87-67e7-4e7f-9990-78c19715f52c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.js" afterPath="$PROJECT_DIR$/src/app/app.component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.js.map" afterPath="$PROJECT_DIR$/src/app/app.component.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.ts" afterPath="$PROJECT_DIR$/src/app/app.component.ts" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,8 +43,8 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1500060285000" expanded="true" signature="1014:1135" ph="{...}" />
-                <marker date="1500060285000" expanded="true" signature="1014:1138" ph="[...]" />
+                <marker date="1500062825000" expanded="true" signature="1014:1135" ph="{...}" />
+                <marker date="1500062825000" expanded="true" signature="1014:1138" ph="[...]" />
               </folding>
             </state>
           </provider>
@@ -52,10 +55,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1500060127000" expanded="true" signature="657:740" ph="{...}" />
-                <marker date="1500060127000" expanded="true" signature="687:740" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -73,10 +73,20 @@
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="581">
+              <caret line="93" column="24" lean-forward="false" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="24" />
               <folding>
-                <marker date="1500060126000" expanded="true" signature="226:338" ph="..." />
+                <marker date="1500063634000" expanded="true" signature="582:753" ph="..." />
+                <marker date="1500063634000" expanded="true" signature="652:739" ph="..." />
+                <marker date="1500063634000" expanded="true" signature="788:1068" ph="..." />
+                <marker date="1500063634000" expanded="true" signature="920:1053" ph="..." />
+                <marker date="1500063634000" expanded="true" signature="1110:1197" ph="{...}" />
+                <marker date="1500063634000" expanded="true" signature="1214:1340" ph="{...}" />
+                <marker date="1500063634000" expanded="true" signature="1360:1603" ph="{...}" />
+                <marker date="1500063634000" expanded="true" signature="1638:1725" ph="{...}" />
+                <marker date="1500063634000" expanded="true" signature="1751:1850" ph="{...}" />
+                <marker date="1500063634000" expanded="true" signature="1873:1939" ph="{...}" />
+                <marker date="1500063634000" expanded="true" signature="1963:2354" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -124,8 +134,8 @@
         <option value="$PROJECT_DIR$/ansible/vars/all.yml" />
         <option value="$PROJECT_DIR$/Vagrantfile" />
         <option value="$PROJECT_DIR$/src/app/app.module.js" />
-        <option value="$PROJECT_DIR$/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/app.component.ts" />
       </list>
     </option>
   </component>
@@ -393,12 +403,12 @@
       <updated>1498665064439</updated>
       <workItem from="1498665065731" duration="13797000" />
       <workItem from="1500044672542" duration="2115000" />
-      <workItem from="1500047157965" duration="3780000" />
+      <workItem from="1500047157965" duration="5505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19692000" />
+    <option name="totallyTimeSpent" value="21417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -548,8 +558,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1500060285000" expanded="true" signature="1014:1135" ph="{...}" />
-            <marker date="1500060285000" expanded="true" signature="1014:1138" ph="[...]" />
+            <marker date="1500062825000" expanded="true" signature="1014:1135" ph="{...}" />
+            <marker date="1500062825000" expanded="true" signature="1014:1138" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -574,10 +584,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1500060127000" expanded="true" signature="657:740" ph="{...}" />
-            <marker date="1500060127000" expanded="true" signature="687:740" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -601,10 +608,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="581">
+          <caret line="93" column="24" lean-forward="false" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="24" />
           <folding>
-            <marker date="1500060126000" expanded="true" signature="226:338" ph="..." />
+            <marker date="1500063634000" expanded="true" signature="582:753" ph="..." />
+            <marker date="1500063634000" expanded="true" signature="652:739" ph="..." />
+            <marker date="1500063634000" expanded="true" signature="788:1068" ph="..." />
+            <marker date="1500063634000" expanded="true" signature="920:1053" ph="..." />
+            <marker date="1500063634000" expanded="true" signature="1110:1197" ph="{...}" />
+            <marker date="1500063634000" expanded="true" signature="1214:1340" ph="{...}" />
+            <marker date="1500063634000" expanded="true" signature="1360:1603" ph="{...}" />
+            <marker date="1500063634000" expanded="true" signature="1638:1725" ph="{...}" />
+            <marker date="1500063634000" expanded="true" signature="1751:1850" ph="{...}" />
+            <marker date="1500063634000" expanded="true" signature="1873:1939" ph="{...}" />
+            <marker date="1500063634000" expanded="true" signature="1963:2354" ph="{...}" />
           </folding>
         </state>
       </provider>
